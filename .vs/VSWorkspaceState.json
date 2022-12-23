@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\FullStackAPI",
+    "\\FullStackAPI\\FullStackAPI"
   ],
-  "SelectedNode": "\\C:\\Users\\eulix\\Source\\Repos\\EmployeeWebApi",
+  "SelectedNode": "\\FullStackAPI\\FullStackAPI.sln",
   "PreviewInSolutionExplorer": false
 }

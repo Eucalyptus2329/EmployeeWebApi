@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eulix\\Source\\Repos\\EmployeeWebApi\\FullStackAPI\\FullStackAPI\\FullStackAPI.csproj": {}
+    "C:\\Users\\eulix\\source\\repos\\EmployeeWebApi\\FullStackAPI\\FullStackAPI\\FullStackAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eulix\\Source\\Repos\\EmployeeWebApi\\FullStackAPI\\FullStackAPI\\FullStackAPI.csproj": {
+    "C:\\Users\\eulix\\source\\repos\\EmployeeWebApi\\FullStackAPI\\FullStackAPI\\FullStackAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eulix\\Source\\Repos\\EmployeeWebApi\\FullStackAPI\\FullStackAPI\\FullStackAPI.csproj",
+        "projectUniqueName": "C:\\Users\\eulix\\source\\repos\\EmployeeWebApi\\FullStackAPI\\FullStackAPI\\FullStackAPI.csproj",
         "projectName": "FullStackAPI",
-        "projectPath": "C:\\Users\\eulix\\Source\\Repos\\EmployeeWebApi\\FullStackAPI\\FullStackAPI\\FullStackAPI.csproj",
+        "projectPath": "C:\\Users\\eulix\\source\\repos\\EmployeeWebApi\\FullStackAPI\\FullStackAPI\\FullStackAPI.csproj",
         "packagesPath": "C:\\Users\\eulix\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eulix\\Source\\Repos\\EmployeeWebApi\\FullStackAPI\\FullStackAPI\\obj\\",
+        "outputPath": "C:\\Users\\eulix\\source\\repos\\EmployeeWebApi\\FullStackAPI\\FullStackAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eulix\\AppData\\Roaming\\NuGet\\NuGet.Config",

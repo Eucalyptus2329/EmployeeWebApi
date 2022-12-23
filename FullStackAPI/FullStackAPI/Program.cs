@@ -1,5 +1,5 @@
 using FullStackAPI.Data;
-using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore; //EntityFramework uses Tool Package installed to create migration -> creates everything needed to create new database and table 
 
 var builder = WebApplication.CreateBuilder(args);
 
