@@ -43,6 +43,12 @@
                   "maximumError": "4kb"
                 }
               ],
+              "fileReplacements": [
+                {
+                  "replace": "EmployeeWebApi/FullStackUI/src/environments/environment.ts",
+                  "with": "EmployeeWebApi/FullStackUI/src/environments/environment.prod.ts"
+                }
+              ],
               "outputHashing": "all"
             },
             "development": {
