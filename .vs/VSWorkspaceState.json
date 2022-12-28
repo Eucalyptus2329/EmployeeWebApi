@@ -1,9 +1,15 @@
 {
   "ExpandedNodes": [
+<<<<<<< HEAD
+    ""
+  ],
+  "SelectedNode": "\\C:\\Users\\eulix\\ASP.Net-Project\\EmployeeWebApi",
+=======
     "",
     "\\FullStackAPI",
     "\\FullStackAPI\\FullStackAPI"
   ],
   "SelectedNode": "\\FullStackAPI\\FullStackAPI.sln",
+>>>>>>> 0a54616a27a20d237896262d6b57e366520be5f5
   "PreviewInSolutionExplorer": false
 }
