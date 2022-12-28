@@ -36,7 +36,7 @@ namespace FullStackAPI.Controllers
         [Route("{id:Guid}")]
         public async Task<IActionResult> GetEmployee([FromRoute] Guid id)
         {
-            var employee = await _fullStackDbContext.Employees.FirstOrDefaultAsync(x => x.Id == id);
+            var employee = await _fullStackDbContext.Employees.FirstOrDefaultAsync(x => x.Id == id); //returns first element with x of id equaling id
             if(employee == null)
             {
                 return NotFound();
