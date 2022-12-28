@@ -77,8 +77,5 @@ namespace FullStackAPI.Controllers
 
             return Ok(employee);
         }
-
-
     }
-}
 }
