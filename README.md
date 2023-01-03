@@ -1,6 +1,6 @@
 # EmployeeWebApi
 
-In this project, we will be creating an Angular 15 web application using Angular's latest version. /br
+In this project, we will be creating an Angular 15 web application using Angular's latest version. br
 This application will primarily perform Angular CRUD operations. /br
 As our API, we will use ASP.NET Core or .NET 7 to create a Web API from scratch.  /br
 In our ASP.NET 7 Web API, we will use entity framework core and SQL Server to perform our CRUD operations.  /br
